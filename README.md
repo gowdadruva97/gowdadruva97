@@ -41,6 +41,7 @@ Actively exploring full-time Project Manager, Product Manager and Senior Busines
 Building something ambitious? Let's talk.
 
 Email : gowdadruva97@gmail.com
+
 GitHub: github.com/gowdadruva97
  
 ## 🌐 Socials:
