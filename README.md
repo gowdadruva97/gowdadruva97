@@ -23,8 +23,11 @@ That's where I stopped thinking like a BA and started thinking like a product bu
 What that's delivered across both environments:
 
 → 30% improvement in operational execution and delivery quality (Broadridge)
+
 → 25–30% reduction in post-release defects through QA integration from day one
+
 → 34% faster stakeholder reporting through Power BI dashboards built for decisions, not vanity metrics (Wipro)
+
 → 20% boost in operational efficiency at Babylon through Agile delivery coordination and structured reporting
 
 Tools I work across: SQL · Python · Power BI · Generative AI · Agile · Jira · AWS
