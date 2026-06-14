@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Most technology platforms do not fail because of bad engineers. They fail because no one bridged the gap between what the business needed and what the engineers actually built. That gap is where I have spent the last 6 years.
+Most technology platforms do not fail because of bad engineers. They fail because no one bridged the gap between what the business needed and what the engineers actually built. Closing that gap is what I have spent the last 6 years doing.
 
 I began my career in B2B enterprise IT at Wipro, where I was a Client Service Business Analyst for 2 years ,working across large-scale technology project for Dell . During that time, I learned how to understand complex stakeholder needs and translate them into something a development team could actually work with.
 
@@ -15,8 +15,8 @@ I wasn't just supporting delivery. I was owning it, across business analysis, QA
 What that's delivered across both environments:
 
 → 30% improvement in operational execution and delivery quality at Broadridge.
-→ 25 - 30% reduction in post-release defects through QA integration from day one.
-→ 20% boost in operational efficiency at Babylon through Agile delivery process and structured reporting.
+→ 25 - 30% reduction in post-release defects through QA integration from day one at Wipro.
+→ 20% boost in operational efficiency at Babylon through Agile delivery process.
 
 Tools I work across SQL, Python, Power BI, Generative AI, Agile, Jira, AWS
 
@@ -24,7 +24,7 @@ I work best with FinTech scale-ups, product based companies, investment banks, B
 
 Currently completing an MSc in Data Analytics at Dublin City University (graduating Sep 2026), advancing my skills  in machine learning, AI and cloud technologies to build smarter, more predictive products.
 
-Actively exploring full-time Project Manager, Product Manager and Senior Business Analyst roles where the main focus is on building things with data and AI.
+Actively exploring full-time Business Analyst, Product Support, Reporting, Operations and PMO Analyst roles where the main focus is on building things with data and AI.
 
 Building something ambitious? Let's talk.
 
