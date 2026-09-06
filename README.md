@@ -2,33 +2,31 @@
 
 Most technology platforms do not fail because of bad engineers. They fail because no one bridged the gap between what the business needed and what the engineers actually built. Closing that gap is what I have spent the last 6 years doing.
 
-I began my career in B2B enterprise IT at Wipro, where I was a Client Service Business Analyst for 2 years ,working across large-scale technology project for Dell . During that time, I learned how to understand complex stakeholder needs and translate them into something a development team could actually work with.
+I began my career in B2B enterprise IT at Wipro as a Client Service Business Analyst, working across large-scale technology projects for Dell, translating complex stakeholder needs into specifications a development team could actually work with.
 
 Then I moved into FinTech.
 
-At Broadridge Financial Services, one of the world's largest capital markets infrastructure firms, I spent nearly 4 years embedded in high-stakes, EU-regulated platforms serving JP Morgan, HSBC, Deutsche Bank, RBC, Societe Generale, Mizuho, Wells Fargo, SMBC, IG, LSEG and other prime investment banks.
+At Broadridge Financial Services, one of the world's largest capital markets infrastructure firms, I spent nearly 4 years embedded in high-stakes, EU-regulated platforms serving JP Morgan, HSBC, Deutsche Bank, RBC, Societe Generale, Mizuho, Wells Fargo, SMBC, IG and LSEG.
 
-Today, I am part of the core team at Babylon in Dublin, a multicultural integration platform connecting Ireland's diverse communities through a web and mobile app, radio shows and live events. As Project Manager, I lead a team of 9 directly, overseeing Agile delivery across engineering, product and business teams as we work toward a full product launch in the coming months, reporting directly to the Founder.
+I wasn't just supporting delivery. I was owning it across requirements, QA, release management and cross-functional stakeholder alignment while keeping client satisfaction high and post-release defects low.
 
-I wasn't just supporting delivery. I was owning it, across business analysis, QA, project coordination and product operations. That's where I stopped thinking like a BA and started thinking like a product builder.
+Today I lead a team of 9 at Babylon in Dublin, a multicultural integration platform, overseeing Agile delivery across engineering, product and business as we work toward a full product launch, reporting directly to the Founder.
 
-What that's delivered across both environments:
+Tools I work across: SQL, Python, Power BI, Generative AI, Agile, Jira and AWS.
 
-→ 30% improvement in operational execution and delivery quality at Broadridge.
-→ 25 - 30% reduction in post-release defects through QA integration from day one at Wipro.
-→ 20% boost in operational efficiency at Babylon through Agile delivery process.
+What I bring to Project Management and client-facing Delivery roles:
 
-Tools I work across SQL, Python, Power BI, Generative AI, Agile, Jira, AWS
+Strong track record delivering software projects on time in FinTech and capital markets. Natural ability to build trusted relationships with clients, engineering and business stakeholders simultaneously. Comfortable challenging detail, managing scope creep and holding teams accountable without losing the relationship. Process-driven but pragmatic enough to know when to deviate and why.
 
-I work best with FinTech scale-ups, product based companies, investment banks, B2B enterprise teams, Big Four and global consulting firms who can bridge business and technology from discovery to delivery.
+Currently completing an MSc in Data Analytics at Dublin City University (graduating September 2026).
 
-Currently completing an MSc in Data Analytics at Dublin City University (graduating Sep 2026), advancing my skills  in machine learning, AI and cloud technologies to build smarter, more predictive products.
+I work best with FinTech scale-ups, investment banks, B2B platforms and global consulting firms who need someone to bridge business and technology from discovery to delivery.
 
-Actively exploring full-time Business Analyst, Product Support, Reporting, Operations and PMO Analyst roles where the main focus is on building things with data and AI.
+Actively open to Business & Product Consultant, Project Manager, PMO and Client-Facing Delivery roles based in Dublin, open to roles across Ireland and the EU.
 
 Building something ambitious? Let's talk.
 
-Email : gowdadruva97@gmail.com
+Email : gowdadruva97@gmail.com 
 GitHub: github.com/gowdadruva97
  
 ## 🌐 Socials:
