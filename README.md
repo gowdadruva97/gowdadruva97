@@ -33,8 +33,11 @@ GitHub: github.com/gowdadruva97
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/prajwal1709) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowdadruva97@gmail.com) 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B5C?style=flat&logo=database&logoColor=white) ![Sybase](https://img.shields.io/badge/Sybase-000000?style=flat&logo=database&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazon-aws&logoColor=white) ![KDiff3](https://img.shields.io/badge/KDiff3-000000?style=flat&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263?style=flat&logo=jenkins&logoColor=white) ![ASE ISQL](https://img.shields.io/badge/ASE_ISQL-000000?style=flat&logo=database&logoColor=white) ![SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=flat&logo=oracle&logoColor=white) ![WinSCP](https://img.shields.io/badge/WinSCP-00599C?style=flat&logo=files&logoColor=white) ![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=flat&logo=putty&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![Microsoft Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Microsoft Office Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=flat&logo=sqlite&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,oracle,jira,aws,jenkins,jupyter,pycharm,powerbi,tableau,linux&perline=12" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
