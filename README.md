@@ -36,7 +36,7 @@ GitHub: github.com/gowdadruva97
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,oracle,jira,aws,jenkins,jupyter,pycharm,powerbi,tableau,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,aws,mysql,jenkins,linux,git" />
   </a>
 </p>
 
