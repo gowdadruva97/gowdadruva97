@@ -30,13 +30,18 @@ Email : gowdadruva97@gmail.com
 GitHub: github.com/gowdadruva97
  
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/prajwal1709) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowdadruva97@gmail.com) 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,mysql,jenkins,linux,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,python,gherkin,aws,cloudflare,jenkins,linux,git,gitlab,pycharm,notion" />
   </a>
 </p>
 
