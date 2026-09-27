@@ -85,7 +85,7 @@ I'm currently exploring how AI and automation can streamline product and operati
 **MSc in Computing, Major in Data Analytics** - Dublin City University *(Sep 2025 – Sep 2026)*
 Modules: Machine Learning, Cloud Technologies (AWS), AI, Data Management & Visualization
 
-**BE in Computer Science** - Visvesvaraya Technological University *(2015 – 2019)*
+**BE in Computer Science** - Visvesvaraya Technological University *(Aug 2015 – Aug 2019)*
 Modules: Data Structures & Algorithms, DBMS, Machine Learning, Data Mining, Python, IoT
 
 ---
