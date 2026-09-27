@@ -1,43 +1,24 @@
-# 💫 About Me:
+<h1 align="center">Hi, I'm Prajwal Tejamurthy 👋</h1>
 
-Most technology platforms do not fail because of bad engineers. They fail because no one bridged the gap between what the business needed and what the engineers actually built. Closing that gap is what I have spent the last 6 years doing.
-
-I began my career in B2B enterprise IT at Wipro as a Client Service Business Analyst, working across large-scale technology projects for Dell, translating complex stakeholder needs into specifications a development team could actually work with.
-
-Then I moved into FinTech.
-
-At Broadridge Financial Services, one of the world's largest capital markets infrastructure firms, I spent nearly 4 years embedded in high-stakes, EU-regulated platforms serving JP Morgan, HSBC, Deutsche Bank, RBC, Societe Generale, Mizuho, Wells Fargo, SMBC, IG and LSEG.
-
-I wasn't just supporting delivery. I was owning it across requirements, QA, release management and cross-functional stakeholder alignment while keeping client satisfaction high and post-release defects low.
-
-Today I lead a team of 9 at Babylon in Dublin, a multicultural integration platform, overseeing Agile delivery across engineering, product and business as we work toward a full product launch, reporting directly to the Founder.
-
-Tools I work across: SQL, Python, Power BI, Generative AI, Agile, Jira and AWS.
-
-What I bring to Project Management and client-facing Delivery roles:
-
-Strong track record delivering software projects on time in FinTech and capital markets. Natural ability to build trusted relationships with clients, engineering and business stakeholders simultaneously. Comfortable challenging detail, managing scope creep and holding teams accountable without losing the relationship. Process-driven but pragmatic enough to know when to deviate and why.
-
-Currently completing an MSc in Data Analytics at Dublin City University (graduating September 2026).
-
-I work best with FinTech scale-ups, investment banks, B2B platforms and global consulting firms who need someone to bridge business and technology from discovery to delivery.
-
-Actively open to Business & Product Consultant, Project Manager, PMO and Client-Facing Delivery roles based in Dublin, open to roles across Ireland and the EU.
-
-Building something ambitious? Let's talk.
-
-Email : gowdadruva97@gmail.com 
-GitHub: github.com/gowdadruva97
- 
-## 🌐 Socials:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=60&lines=Product+Management+Professional;Data-Driven+Decision+Making;AI+%26+Workflow+Automation;FinTech+%26+Capital+Markets" alt="Typing SVG" />
   </a>
 </p>
 
-# 💻 Tech Stack:
+---
+
+## 💡A Bit About Me : 
+
+I'm a Product Management professional with 6+ years of experience coordinating workstreams, supporting clients and managing day-to-day delivery across financial services, fintech and technology. My work sits at the intersection of product, data and stakeholder communication  gathering requirements, tracking actions across teams and turning operational data into decisions.
+
+Across roles at Broadridge Financial Services, Babylon and Wipro Limited, I've improved reporting visibility by 25%, reduced manual effort by 30%, and helped cut product delivery time by 25% through clear requirements, PRDs and Figma prototypes. I'm backed by an MSc in Computing (Data Analytics) and hands-on skills in SQL, Python, Power BI and AWS.
+
+I'm currently exploring how AI and automation can streamline product and operational workflows and I'm open to product, data and delivery-focused roles and collaborations in fintech and technology.
+
+---
+
+# 💻 Core Skills :
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -45,4 +26,74 @@ GitHub: github.com/gowdadruva97
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Category | Skills |
+|---|---|
+| Administration & Operations | Administrative Support, Operations Support, Workstream Coordination, Task Tracking, Documentation, Scheduling Support, Process Improvement |
+| Client & Stakeholder Support | Client Communication, Stakeholder Engagement, Customer Service, Issue Resolution, Requirements Gathering, Cross-Functional Collaboration |
+| Data & Reporting | SQL, Python, Power BI, Excel, Data Analysis, KPI Tracking, Performance Reporting |
+| Product & Delivery | Product Development, Agile Project Management, Scrum, Figma Prototyping, User Requirements, Testing, Production Support |
+| Technology & Tools | AWS, Jira, Confluence, AI Automation Tools, Technical Documentation, Data Management & Visualization |
+
+---
+
+## 🛠️ How I Add Value : 
+
+- Manage end-to-end product delivery requirements, PRDs, design, development, testing and production cutting delivery time by 25%
+- Build Figma prototypes and technical specifications that reduce development rework and clarify handoffs to engineering teams
+- Turn operational data into decisions using SQL, Power BI, and Excel  improving reporting visibility and accuracy by up to 25%
+- Coordinate Agile delivery, testing, and deployment across cross-functional teams, improving release quality by 30%
+- Support financial services and capital markets workflows, including client onboarding and settlement-related issue resolution
+- Identify repetitive administrative work and drive process automation, reducing manual effort by 30%
+
+---
+
+## 💼 My Journey So Far : 
+
+**Product Manager** - Babylon, Dublin, Ireland *(Jan 2026 – Sep 2026)*
+- Coordinated requests and priorities across product, engineering, and leadership teams
+- Gathered stakeholder requirements and tracked actions across multiple workstreams
+- Improved reporting visibility by 25% using Power BI and Excel
+- Reduced manual administrative effort by 30% through process automation initiatives
+
+**Senior Product Manager** - Broadridge Financial Services, Bengaluru, India *(Dec 2021 – Aug 2025)*
+- Managed client onboarding and complex issues involving financial data and settlement instructions
+- Improved operational reporting visibility and accuracy by 25% using SQL, Power BI, and Excel
+- Mentored 10+ analysts, contributing to a 20% increase in team productivity
+
+**Client Service Product Analyst** - Wipro Limited, Mysuru, India *(Nov 2019 – Dec 2021)*
+- Coordinated communication between clients, business teams, and technical teams
+- Built Power BI dashboards and Excel reports, reducing reporting effort by 30%
+- Used root cause analysis to reduce service disruptions by 25%
+
+**Android Development Intern** - BSQ Technology, Mysuru, India *(Jul 2018 – Aug 2018)*
+- Built an AI-powered Android app using Google Cloud Vision API for OCR, translation, and speech output for visually impaired users
+- Developed features in Java/Kotlin using Android Studio, with UI implementation and API integration
+
+---
+
+## 🚀 Currently Building : 
+
+- **AI-Powered Product Development** - PRDs, prototypes, and specs for AI-driven tools
+- **Data Analytics & Reporting** - Power BI dashboard that drive operational decisions
+- **Workflow Automation** - Identifying and automating repetitive processes
+- **Agile Product Delivery** - Cross-functional coordination from requirements to production
+
+---
+
+## 🎓 Academic Background : 
+
+**MSc in Computing, Major in Data Analytics** - Dublin City University *(Sep 2025 – Sep 2026)*
+Modules: Machine Learning, Cloud Technologies (AWS), AI, Data Management & Visualization
+
+**BE in Computer Science** - Visvesvaraya Technological University *(2015 – 2019)*
+Modules: Data Structures & Algorithms, DBMS, Machine Learning, Data Mining, Python, IoT
+
+---
+
+## 📫 Let's Connect : 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+  </a>
+</p>
