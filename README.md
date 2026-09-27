@@ -1,13 +1,5 @@
 <h1 align="center">Hi, I'm Prajwal Tejamurthy 👋</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=60&lines=Product+Management+Professional;Data-Driven+Decision+Making;AI+%26+Workflow+Automation;FinTech+%26+Capital+Markets" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ## 💡A Bit About Me : 
 
 I'm a Product Management professional with 6+ years of experience coordinating workstreams, supporting clients and managing day-to-day delivery across financial services, fintech and technology. My work sits at the intersection of product, data and stakeholder communication  gathering requirements, tracking actions across teams and turning operational data into decisions.
