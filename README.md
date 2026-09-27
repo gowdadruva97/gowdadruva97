@@ -50,8 +50,8 @@ I'm currently exploring how AI and automation can streamline product and operati
 ## 💼 My Journey So Far : 
 
 **Product Manager** - Babylon, Dublin, Ireland *(Jan 2026 – Sep 2026)*
-- Coordinated requests and priorities across product, engineering, and leadership teams
-- Gathered stakeholder requirements and tracked actions across multiple workstreams
+- Coordinated requests and priorities across product owner & engineering teams
+- Gathered requirements and tracked actions across multiple workstreams
 - Improved reporting visibility by 25% using Power BI and Excel
 - Reduced manual administrative effort by 30% through process automation initiatives
 
